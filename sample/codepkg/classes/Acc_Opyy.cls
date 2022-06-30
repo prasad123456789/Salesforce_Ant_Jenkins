@@ -4,7 +4,7 @@ public class Acc_Opyy {
     {
        //create list opportunities 
        List<Opportunity> optylist=new List<Opportunity>();
-        //take one by one account from list of accounts.
+        //take one by one account from list of accounts if account matches with.
         for(Account a : accounts)
         {
             	
