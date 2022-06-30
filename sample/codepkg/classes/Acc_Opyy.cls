@@ -16,7 +16,7 @@ public class Acc_Opyy {
                 optylist.add(op);
             
         }
-	//insert optylist
+	//insert optylist updated
          insert optylist;
     }  
 
